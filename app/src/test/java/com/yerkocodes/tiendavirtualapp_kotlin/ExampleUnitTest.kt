@@ -1,4 +1,4 @@
-package com.ykacorb.tiendavirtualapp_kotlin
+package com.yerkocodes.tiendavirtualapp_kotlin
 
 import org.junit.Test
 

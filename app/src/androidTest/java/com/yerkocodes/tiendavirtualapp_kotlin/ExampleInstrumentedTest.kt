@@ -1,4 +1,4 @@
-package com.ykacorb.tiendavirtualapp_kotlin
+package com.yerkocodes.tiendavirtualapp_kotlin
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.ykacorb.tiendavirtualapp_kotlin", appContext.packageName)
+        assertEquals("com.yerkocodes.tiendavirtualapp_kotlin", appContext.packageName)
     }
 }
