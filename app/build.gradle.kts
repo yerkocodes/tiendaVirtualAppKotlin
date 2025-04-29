@@ -34,6 +34,10 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+
+    buildFeatures {
+        viewBinding = true // Ahora el findViewById que enlaza nuestro diseño con la actividad
+    }
 }
 
 dependencies {
